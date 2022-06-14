@@ -8,6 +8,7 @@ public class Addition {
 		n2=30;
 		sum=n1+n2;
 		System.out.println("Addition is" +sum);
+		System.out.println("This is the new Line");
 		
 	}
 
